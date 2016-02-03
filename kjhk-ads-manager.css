@@ -1,0 +1,67 @@
+@import url('http://fonts.googleapis.com/css?family=Montserrat');
+
+form{
+    border: solid 3px #DDDDDD;
+    background: #F8F8F8;
+    width: 400px;
+    height: 400px;
+    border-width: medium;
+    margin-left: auto;
+    margin-right: auto;
+}
+input[type="text"]{
+    font-family: "Montserrat";
+    font-size: 1.5em;
+}
+input[type="password"]{
+    font-family: "Montserrat";
+    font-size: 1.5em;
+}
+input[type="submit"]{
+    font-family: "Montserrat";
+    border:0 none;
+    cursor:pointer;
+}
+
+#password_submit{
+    font-size: 2em;
+    color: #FFFFFF;
+    padding:5px 15px;
+    background:#000000;
+}
+
+.new_ad_button{
+    font-size: 1.5em;
+    color: #FFFFFF;
+    padding:1px 1px;
+    background:#000000;
+}
+
+h3{
+    font-family: "Montserrat";
+    font-size: 2em;
+}
+
+table{
+    padding-left: 3em;
+    border-collapse: collapse;
+}
+
+td, th{
+    border: 1px solid #999;
+    padding: 0.5rem;
+    text-align: left;
+}
+
+#impressions{
+    font-family: "Montserrat";
+    font-size: 1.5em;
+}
+
+.impressions_count{
+    padding-left: 2em;
+}
+
+
+
+
